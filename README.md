@@ -1,1 +1,3 @@
-# Carrillo_B_Osorio_R_HW1
+# This is our bio for team awesome
+
+(team members, where youre from, etc.)
