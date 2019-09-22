@@ -1,3 +1,3 @@
-# This is our bio for team awesome
+# Our team
 
-(team members, where youre from, etc.)
+Carrillo and Osorio are first year students of Media Design at Fanshawe College.
